@@ -1,4 +1,4 @@
 # mi-primer-repositorio
 este es mi primer repositorio
 
-este es un cambio
+Este repositorio tendra contenido de pruebas de git.
